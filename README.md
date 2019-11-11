@@ -1,6 +1,6 @@
 # Evolución de las reservas hídricas de los embalses de España
 
-El objetivo del algoritmo es la creación de un dataset a partir de los datos contenidos en la web de Embalses.net mediante la técnica de web scraping. El dataset contendrá información sobre las reservas hídricas de los embalses (>5Hm3) con periodicidad semanal, almacenándolo de forma tabular en un archivo csv 
+El objetivo del algoritmo es la creación de un dataset a partir de los datos contenidos en la web de Embalses.net mediante la técnica de web scraping. El dataset contendrá información sobre las reservas hídricas de los embalses (>5Hm3) con periodicidad semanal, almacenándolo de forma tabular en un archivo csv.
 
 El scrip se ha codificado en python 3 utilizando las siguientes librerías:
 - request
